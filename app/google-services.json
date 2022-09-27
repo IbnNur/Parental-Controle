@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000000927261",
+    "project_id": "parental-controle",
+    "storage_bucket": "parental-controle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000000927261:android:ec3db50effbade34c2f8f4",
+        "android_client_info": {
+          "package_name": "www.nazirdaudo.controleparental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000000927261-9g3n0ak5jbp135lv85jd37dens58sle6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTYmeJ80HnFzNt24AwP9CxLZwLoeUDXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000000927261-9g3n0ak5jbp135lv85jd37dens58sle6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
